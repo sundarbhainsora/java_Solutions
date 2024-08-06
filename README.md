@@ -11,11 +11,12 @@ This repository includes my personal solutions to LeetCode problems, categorized
 
 - **Easy**
   - [majorityElement](https://github.com/sundarbhainsora/java_Solutions/blob/main/leetcode/easy/MajorityElement.java)
-   [Problem](https://leetcode.com/problems/majority-element/description/)
+   -[Problem](https://leetcode.com/problems/majority-element/description/)
   
 
 - **Medium**
-  - [count And Say](https://leetcode.com/problems/count-and-say/)
+  - [count And Say](https://github.com/sundarbhainsora/java_Solutions/blob/main/leetcode/medium/CountAndSay.java) 
+    -[Problem](https://leetcode.com/problems/count-and-say/)
  
 
 
