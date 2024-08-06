@@ -10,11 +10,11 @@ This repository includes my personal solutions to LeetCode problems, categorized
 ## Problem Categories
 
 - **Easy**
-  - majorityElement (link-to-problem)
+  - [majorityElement](https://leetcode.com/problems/majority-element/description/)
   
 
 - **Medium**
-  - [Problem 1 count And Say](link-to-problem)
+  - [count And Say](https://leetcode.com/problems/count-and-say/)
  
 
 - **Hard**
