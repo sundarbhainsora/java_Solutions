@@ -12,7 +12,7 @@ This repository includes my personal solutions to LeetCode problems, categorized
 - **Easy**
   - [majorityElement](https://github.com/sundarbhainsora/java_Solutions/blob/main/leetcode/easy/MajorityElement.java)
    -[Problem link](https://leetcode.com/problems/majority-element/description/)
-  -[Single Number]
+  - [Single Number](https://github.com/sundarbhainsora/java_Solutions/blob/main/leetcode/easy/Single%20Number)
     -[Problem link](https://leetcode.com/problems/single-number/description/)
   
 
