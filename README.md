@@ -19,7 +19,7 @@ This repository includes my personal solutions to LeetCode problems, categorized
 - **Medium**
   - [count And Say](https://github.com/sundarbhainsora/java_Solutions/blob/main/leetcode/medium/CountAndSay.java) 
     -[Problem link](https://leetcode.com/problems/count-and-say/)
-  - [Rotate Array] (https://github.com/sundarbhainsora/java_Solutions/blob/main/leetcode/medium/RotateArray.java)
+  - [Rotate Array](https://github.com/sundarbhainsora/java_Solutions/blob/main/leetcode/medium/RotateArray.java)
     -[Problem link](https://leetcode.com/problems/rotate-array/)
  
 
