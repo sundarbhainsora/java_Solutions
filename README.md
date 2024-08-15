@@ -14,6 +14,8 @@ This repository includes my personal solutions to LeetCode problems, categorized
    -[Problem link](https://leetcode.com/problems/majority-element/description/)
   - [Single Number](https://github.com/sundarbhainsora/java_Solutions/blob/main/leetcode/easy/Single%20Number)
     -[Problem link](https://leetcode.com/problems/single-number/description/)
+  - [Max Consecutive Ones](https://github.com/sundarbhainsora/java_Solutions/blob/main/leetcode/easy/MaxConsecutiveOnes.java)
+    -[Problem link](https://leetcode.com/problems/max-consecutive-ones/)
   
 
 - **Medium**
