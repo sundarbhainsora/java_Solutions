@@ -1,5 +1,5 @@
 # java_Solutions
-# LeetCode Solutions in Java
+# LeetCode Problem Solutions in Java
 
 Welcome to my repository of LeetCode solutions implemented in Java! This repository contains my solutions to various coding challenges found on LeetCode, which are designed to help improve problem-solving skills and algorithmic thinking.
 
