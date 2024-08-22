@@ -23,9 +23,11 @@ This repository includes my personal solutions to LeetCode problems, categorized
     -[Problem link](https://leetcode.com/problems/count-and-say/)
   - [Rotate Array](https://github.com/sundarbhainsora/java_Solutions/blob/main/leetcode/medium/RotateArray.java)
     -[Problem link](https://leetcode.com/problems/rotate-array/)
-  - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-    -[Problem link](https://github.com/sundarbhainsora/java_Solutions/blob/main/leetcode/medium/MaximumSubarray.java)
+  - [Maximum Subarray](https://github.com/sundarbhainsora/java_Solutions/blob/main/leetcode/medium/MaximumSubarray.java)
+    -[Problem link](https://leetcode.com/problems/maximum-subarray/)
   - [Array of Prefix Xor](https://github.com/sundarbhainsora/java_Solutions/blob/main/leetcode/medium/ArrayOfPrefixXor.java)
     -[Problem link](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/description/)
+  - [Sort Colors](https://github.com/sundarbhainsora/java_Solutions/blob/main/leetcode/medium/SortColors.java)
+    -[Problem link](https://leetcode.com/problems/sort-colors/description/)
 
 
